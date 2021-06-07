@@ -1,5 +1,7 @@
 # Data and code for "'Garbage In, Garbage Out'" Revisited
 
+Note: this paper is in peer review (but not a mutually-anonymous / double-blind process). This repository is currently intended for the peer reviewers. We have not yet released a preprint of our draft. However, contact Stuart Geiger if you would like to review a preprint privately.
+
 ## Data overview
 All datasets are in `\data\`. The main dataset to explore results is `data\final_labels_hashed_with_scores.xlsx\tsv`. A data dictionary to provide more information about each of the fields in this file is at `data\readme.md`.
 
