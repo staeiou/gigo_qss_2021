@@ -2,7 +2,7 @@
 
 ## Explore with mybinder.org
 
-Click the link below to launch these Jupyter Notebooks in the cloud, where you can run and edit them in your browser, with nothing to install. Click the button, wait for the image to load, then you are in a Jupyter interface. Open the `code` folder to launch the two analysis notebooks. Click the menu "Kernel" -> "Restart and clear output" then the "Run" button to step through each cell yourself. Or click the menu "Kernel" -> "Restart and run all" to re-run the entire notebook.
+Click the link below to launch these Jupyter Notebooks in the cloud, where you can run and edit them in your browser, with nothing to install. Click the button, wait for the image to load, then you are in a Jupyter interface. Open the `code` folder, then click on one of the two analysis notebooks to launch. When in the notebook, click the "Run" button in the center of the toolbar to step through each code and documentation cell yourself. Or click the menu "Kernel" -> "Restart and run all" to re-run the entire notebook.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/staeiou/gigo_qss_2021/HEAD)
 
