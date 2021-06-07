@@ -1,5 +1,7 @@
 # Data and code for "'Garbage In, Garbage Out'" Revisited
 
+## Explore with mybinder.org
+
 Click the link below to launch these Jupyter Notebooks in the cloud, where you can run and edit them in your browser, with nothing to install. Click the button, wait for the image to load, then you are in a Jupyter interface. Open the `code` folder to launch the two analysis notebooks. Click the menu "Kernel" -> "Restart and clear output" then the "Run" button to step through each cell yourself. Or click the menu "Kernel" -> "Restart and run all" to re-run the entire notebook.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/staeiou/gigo_qss_2021/HEAD)
