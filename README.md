@@ -2,6 +2,12 @@
 
 Note: this paper is in peer review (but not a mutually-anonymous / double-blind process). This repository is currently intended for the peer reviewers. We have not yet released a preprint of our draft. However, contact Stuart Geiger if you would like to review a preprint privately.
 
+# Inventory
+`\data\`: first-round labels, final labels, metadata, and scores for each paper
+`\code\`: all data cleaning and analyses for every statistic and graph
+`\figures\`: all graphs and figures, in png, pdf, and eps formats
+`appendix.pdf`: supplementary findings and instructions/definitions given to labelers
+
 ## Data overview
 All datasets are in `\data\`. The main dataset to explore results is `data\final_labels_hashed_with_scores.xlsx\tsv`. A data dictionary to provide more information about each of the fields in this file is at `data\readme.md`.
 
