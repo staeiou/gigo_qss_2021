@@ -31,5 +31,8 @@ Click the link below to launch these Jupyter Notebooks in the cloud, where you c
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/staeiou/gigo_qss_2021/HEAD)
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4906637.svg)](https://doi.org/10.5281/zenodo.4906637)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5009142.svg)](https://doi.org/10.5281/zenodo.5009142)
+
 
