@@ -1,6 +1,6 @@
 # Data and code for "'Garbage In, Garbage Out'" Revisited
 
-Note: this paper is in peer review (but not a mutually-anonymous / double-blind process). This repository is currently intended for the peer reviewers. We have not yet released a preprint of our draft. However, contact Stuart Geiger if you would like to review a preprint privately.
+This paper [has now been published](https://doi.org/10.1162/qss_a_00144) in Quantitative Science Studies!
 
 # Inventory
 - `\data\`: first-round labels, final labels, metadata, and scores for each paper
